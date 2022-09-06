@@ -23,5 +23,8 @@ Python 3.9 is used.
 5. os
 6. csv
 7. math
+8. tkinter
+9. pandas
+10. matplotlib
 
 # (c) Repository hierarchy

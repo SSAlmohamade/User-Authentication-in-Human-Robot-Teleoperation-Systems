@@ -12,6 +12,7 @@ For further information, please refer to our paper " [Mimicry Attacks Against Be
 
 # (A) Requirement
 1. Install V-REP robotic simulator [Hear](https://coppeliarobotics.com/downloads)
+2. Download the dataset [Hear](https://andydataset.loria.fr/) ( we use subst of this dataset " glove data ")
 
 # (B) Install required libraries
 Python 3.9 is used. 
@@ -27,4 +28,4 @@ Python 3.9 is used.
 9. pandas
 10. matplotlib
 
-# (c) Repository hierarchy
+
